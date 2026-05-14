@@ -1,0 +1,48 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:relative;
+  left:-6px;
+  width:1196px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+.form_sketch {
+  border-color:transparent;
+  background-color:transparent;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u3507_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1196px;
+  height:836px;
+}
+#u3507 {
+  border-width:0px;
+  position:absolute;
+  left:6px;
+  top:0px;
+  width:1196px;
+  height:836px;
+  display:flex;
+}
+#u3507 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u3507_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
